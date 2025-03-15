@@ -53,4 +53,5 @@ Create a ROS2 subscriber that:
 
 - Upload the Python file(s) implementing the subscriber and publisher.
 - Provide a screenshot displaying the topic output in the terminal.
+- <img width="1536" alt="Image" src="https://github.com/user-attachments/assets/3cba1a5c-65c0-48df-b371-300ed101eaa1" />
 
